@@ -80,6 +80,9 @@
      <tr>
          <td colspan="2" class="auto-style6">Don't have an account? Register </td>
      </tr>
+     <tr>
+        <td colspan="2" class="auto-style6">Don't have an account? Register </td>
+    </tr>
  </table>
             
         </div>

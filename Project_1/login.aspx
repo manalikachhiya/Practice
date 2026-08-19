@@ -78,6 +78,9 @@
          <td colspan="2" class="auto-style6">Admin</td>
      </tr>
      <tr>
+         <td colspan="2" class="auto-style6">Admin</td>
+     </tr>
+     <tr>
          <td colspan="2" class="auto-style6">Don't have an account? </td>
          <td>.....</td>
      </tr>

@@ -48,7 +48,7 @@
     <form id="form1" runat="server">
         <div>
              <div class="auto-style4">
-     <h1 class="auto-style7">House Rental Website</h1>
+     <h2 class="auto-style7">House Rental Website</h2>
  </div>
  <table border="1" align="center">
      <tr colspan="2">
